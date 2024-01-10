@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Dictionary" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/purple_700</item>
+        <item name="android:statusBarColor">@color/purple_800</item>
+    </style>
+
+    <style name="Theme.Dictionary" parent="Base.Theme.Dictionary" />
+</resources>
